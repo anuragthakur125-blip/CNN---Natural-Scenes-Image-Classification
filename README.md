@@ -1,7 +1,3 @@
-# CNN---Natural-Scenes-Image-Classification
-CNN-based Natural Scene Image Classification using TensorFlow and Keras. The model classifies images into Buildings, Forest, and Sea categories using image preprocessing, data augmentation, and Convolutional Neural Networks.
-
-
 # CNN - Natural Scenes Image Classification
 
 This project uses a Convolutional Neural Network (CNN) to classify natural scene images into three categories: **Buildings, Forest, and Sea**.
